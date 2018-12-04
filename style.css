@@ -1,0 +1,41 @@
+
+.container {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.headerbottom {
+    height: 20px;
+    background-color: brown;
+}
+
+.columnleft {
+    height: 500px;
+    width: 15%;
+    float: left;
+    background-color: cadetblue;
+}
+
+.headertop {
+    height: 20px;
+    background-color: cornflowerblue;
+}
+
+.columncenter {
+    height:500px;
+    width: 70%;
+    float: left;
+    background-color: crimson;
+}
+
+.columnright {
+    height: 500px;
+    width: 15%;
+    float: left;
+    background-color: darkseagreen;
+}
+
+.footer {
+    background-color: coral;
+}

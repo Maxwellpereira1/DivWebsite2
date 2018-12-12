@@ -1,4 +1,6 @@
-
+body {
+    background-image: url(morocco.png);
+}
 .container {
     width: 80%;
     margin-left: auto;
@@ -19,8 +21,9 @@
 }
 
 .headertop {
-    height: 20px;
+    height: 60px;
     background-color: cornflowerblue;
+    font-family: 'Unlock', cursive;
 }
 
 .columncenter {
@@ -28,6 +31,7 @@
     width: 70%;
     float: left;
     background-color: crimson;
+    font-family: 'Roboto', sans-serif;
 }
 
 .columnright {
@@ -41,4 +45,5 @@
     height: 40px;
     background-color: coral;
     clear: left;
+    font-family: 'Roboto', sans-serif;
 }
